@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/Mosoga/Pipeline-Project/_apis/build/status/dacheampong1.azure-pipelines-java?branchName=main)](https://dev.azure.com/Mosoga/Pipeline-Project/_build/latest?definitionId=5&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
